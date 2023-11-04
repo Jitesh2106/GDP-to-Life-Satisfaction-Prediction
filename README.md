@@ -1,7 +1,7 @@
 # GDP-to-Life-Satisfaction-Prediction
 
 ## Overview:
-This project employs a Linear Regression model to predict the life satisfaction of a country given its Gross Domestic Product (GDP).
+This project employs a Linear Regression model and a KNN regressor model to predict the life satisfaction of a country given its Gross Domestic Product (GDP).
 
 ## Tools and Libraries:
 The project leverages the following key technologies:
